@@ -4,7 +4,7 @@
 <br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3843620228">Edit Image</a>
 <body>
 <html>`
-
+[Error 404](http://github.com/cddw-hq/purenet/forgottden.png)
 # purenet
 the ultimate file disk drive storing files and folders
 # Introduction
