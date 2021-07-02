@@ -1,0 +1,16 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>RSS</title>
+<subtitle>RSS</subtitle>
+<link href="http://fetchrss.com/rss/60b349f0c7da5d760b53c2e260b349b98555c10a151a93a2.atom" rel="self"/>
+<id>http://fetchrss.com/rss/60b349f0c7da5d760b53c2e260b349b98555c10a151a93a2.xml</id>
+<updated>2021-05-30T08:18:24+00:00</updated>
+<generator uri="http://fetchrss.com" version="1.0">FetchRSS</generator>
+<icon>https://www.google.com/s2/favicons?domain=https://rss.puremintwater.repl.co</icon>
+<entry>
+<title>My RSS Feed</title>
+<link href="https://rss.puremintwater.repl.co/" rel="self"/>
+<content type="html"> <br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="http://fetchrss.com" target="_blank">FetchRSS</a>)</span></content>
+<updated>2021-05-30T08:15:53+00:00</updated>
+<id>https://rss.puremintwater.repl.co/</id>
+</entry>
+</feed>
