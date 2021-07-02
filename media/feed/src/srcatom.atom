@@ -1,0 +1,16 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>RSS</title>
+<subtitle>RSS</subtitle>
+<link href="https://cddw-hq.github.io/purenet/media/feed/src/srcatom.atom" rel="self"/>
+<id>https://cddw-hq.github.io/purenet/media/feed/feed.xml</id>
+<updated>2021-07-02T02:43:18+00:00</updated>
+<generator uri="http://fetchrss.com" version="1.0">FetchRSS</generator>
+<icon>https://www.google.com/s2/favicons?domain=https://rss.puremintwater.repl.co</icon>
+<entry>
+<title>My RSS Feed</title>
+<link href="https://rss.puremintwater.repl.co/" rel="self"/>
+<content type="html"> <br/><br/><span style="font-size:12px; color: gray;">" target="_blank">FetchRSS</a>)</span></content>
+<updated>2021-05-30T08:15:53+00:00</updated>
+<id>https://rss.puremintwater.repl.co/</id>
+</entry>
+</feed>
